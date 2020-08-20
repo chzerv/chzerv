@@ -3,7 +3,7 @@
 I like nerding out around Linux, infrastructure, networking and software security stuff.
 I've also done _some_ Web Development and _some_ introductory work in operating system (Linux, really) kernels.
 
-- 🔭 I’m currently working on Ansible and CI/CD.
+- 🔭 I’m currently working on [Ansible](https://github.com/ansible/ansible) and CI/CD.
 - 🌱 I’m currently learning about everything.
 - 💬 Ask me about anything tech related.
 - 🥅 Goals: Contribute more to Open Source (like, way more!).
