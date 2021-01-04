@@ -1,11 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, </h1>
 
-I'm an EECE student who loves to constantly tinker with Linux.
-I also like nerding out around infrastructure, networking and security stuff.
+I'm an EECE student who likes nerding-out around Linux, infrastructure and security stuff.
+Also attracted to old text editors.
 
-- 🔭 I’m currently working on [Ansible](https://github.com/ansible/ansible) and CI/CD.
-- 🌱 I’m currently learning about everything.
-- 🥅 Goals: Contribute more to Open Source (like, way more!).
+Always willing and happy to learn.
 
 ### Languages and Tools:
 
