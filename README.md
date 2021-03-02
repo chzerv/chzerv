@@ -1,7 +1,5 @@
-<h1 align="center">Hi there 👋, </h1>
-
-I'm an EECE student who likes nerding-out around Linux, infrastructure and security stuff.
-Also attracted to old text editors.
+Just an EECE student who likes nerding-out around Linux, infrastructure and security stuff.
+Pretty much addicted to self-hosting stuff and messing arround with old text editors (cough, Emacs, cough).
 
 Always willing and happy to learn.
 
